@@ -27,4 +27,18 @@ Make sure you have a C compiler (like GCC) installed on your system.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Durgesh1M/CodeAlpha_MatrixOperations.git
-2.    
+2. Navigate to the source folder:
+   ```bash
+    cd CodeAlpha_MatrixOperations/src
+3. Compile the C code:
+   ```bash
+   gcc main.c -o matrix_ops
+4. Run the executable:
+   
+5. On Windows:
+   ```bash
+    matrix_ops.exe
+6. On Linux/Mac:
+   ```bash
+    ./matrix_ops
+Submitted by Durgesh Kumar as part of the CodeAlpha Internship Program.    
